@@ -1,0 +1,4 @@
+{
+  "description": "Create a migration.",
+  "path": "app/migrations"
+}

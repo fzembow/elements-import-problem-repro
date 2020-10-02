@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "browser": {
+    "app/config": "app/config/browser",
+    "app/server": false
+  },
+  "dependencies": {
+    "@elements/application": "next",
+    "react": ">=16.13.0 <17.0.0",
+    "react-dom": ">=16.13.0 <17.0.0",
+    "react-three-fiber": "next",
+    "three": "next"
+  },
+  "devDependencies": {
+    "@types/node": ">=14.0.0 <15.0.0",
+    "@types/react": ">=16.9.0 <17.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "description": "Create a shared component used in multiple pages.",
+  "path": "app/shared/components/{{name}}"
+}

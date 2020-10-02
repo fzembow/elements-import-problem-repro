@@ -1,0 +1,4 @@
+{
+  "description": "Create a data service.",
+  "path": "app/services/{{name}}"
+}
