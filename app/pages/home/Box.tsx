@@ -31,8 +31,8 @@ export const Box: React.FunctionComponent<any> = (props) => {
   });
 
   const loader = new SVGLoader();
-  // const svgData = loader.parse(SVG.email);
-  // console.log(svgData);
+  const svgData = loader.parse(SVG.email);
+  console.log(svgData);
 
   return (
     <mesh
